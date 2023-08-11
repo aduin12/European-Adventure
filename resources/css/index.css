@@ -1,0 +1,62 @@
+
+.navbar{
+    background-color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: inline-block;
+    z-index: 1;
+}
+
+.navbar li{
+    display: inline-block;
+    padding: 0 20px;
+    font-weight: 900;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    background-color: lightgoldenrodyellow;
+    margin-top: 50px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+
+#front_page{
+    height: 40%;
+    width: 40%;
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+a.red{
+    color:red;
+}
+
+a.pink{
+    color:rgb(239, 58, 176);
+}
+
+a.orange{
+    color:orange;
+}
+
+a.green{
+    color:rgb(78, 197, 78);
+}
+
+a.blue{
+    color: rgb(42, 42, 239);
+}
+
+a.purple{
+    color:blueviolet;
+}
